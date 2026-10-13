@@ -1,0 +1,9 @@
+,sample size,Fis,RMES,,,
+,,,g^2,Sg2,p-value (H0: g^2=s=0),SML
+Central Europe (Belgium),36,-0.01716,-0.00720,0,0.930,0
+Australia (WA),17,-0.08208,-0.00639,0,0.984,0
+Australia (other),15,-0.05891,-0.00020,0,0.462,0
+North America (MA),17,-0.03088,0.00566,0.0220,0.148,0
+New Zealand,28,-0.01049,0.01505,0.0560,0.004,0.0685
+New Zealand (without 3 selfed individuals) ,25,-0.03716,-0.00197,0,0.629,0
+South America (Bariloche),19,-0.05703,-0.00336,0,0.770,0

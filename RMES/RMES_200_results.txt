@@ -1,0 +1,1499 @@
+Results window
+ 
+*******************************
+population :AU-other
+n=15
+nloci=200 of which 28 useless (loci excluded :7  9  19  26  33  57  62  66  67  71  84  87  89  97  99  126  128  130  135  152  160  174  176  179  180  187  196  200   )
+
+g2= -0.00020168415605123 ; sd= 0.00466787817677157 ; expected bias = 1.45260577888373E-6
+s(g2)=0 ; sd= 0 ; expected bias = 0
+p-value (H0: g2=s=0) = 0.463 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -1185.73967364221
+s= 0
+CI95(s) = [ 0 , 0.0595703125 ]
+locus 1 d = 0.533333333333333 missing data=0
+locus 2 d = 0.142857142857143 missing data=1
+locus 3 d = 0.0714285714285714 missing data=1
+locus 4 d = 0.666666666666667 missing data=0
+locus 5 d = 0.133333333333333 missing data=0
+locus 6 d = 0.285714285714286 missing data=1
+locus 7 not used
+locus 8 d = 0.133333333333333 missing data=0
+locus 9 not used
+locus 10 d = 0.285714285714286 missing data=1
+locus 11 d = 0.266666666666667 missing data=0
+locus 12 d = 0.285714285714286 missing data=1
+locus 13 d = 0.142857142857143 missing data=1
+locus 14 d = 0.333333333333333 missing data=0
+locus 15 d = 0.533333333333333 missing data=0
+locus 16 d = 0.466666666666667 missing data=0
+locus 17 d = 0.0666666666666667 missing data=0
+locus 18 d = 0.6 missing data=0
+locus 19 not used
+locus 20 d = 0.4 missing data=0
+locus 21 d = 0.266666666666667 missing data=0
+locus 22 d = 0.8 missing data=0
+locus 23 d = 0.0666666666666667 missing data=0
+locus 24 d = 0.4 missing data=0
+locus 25 d = 0.2 missing data=0
+locus 26 not used
+locus 27 d = 0.266666666666667 missing data=0
+locus 28 d = 0.133333333333333 missing data=0
+locus 29 d = 0.133333333333333 missing data=0
+locus 30 d = 0.0666666666666667 missing data=0
+locus 31 d = 0.266666666666667 missing data=0
+locus 32 d = 0.266666666666667 missing data=0
+locus 33 not used
+locus 34 d = 0.133333333333333 missing data=0
+locus 35 d = 0.133333333333333 missing data=0
+locus 36 d = 0.133333333333333 missing data=0
+locus 37 d = 0.0666666666666667 missing data=0
+locus 38 d = 0.733333333333333 missing data=0
+locus 39 d = 0.266666666666667 missing data=0
+locus 40 d = 0.133333333333333 missing data=0
+locus 41 d = 0.0666666666666667 missing data=0
+locus 42 d = 0.2 missing data=0
+locus 43 d = 0.4 missing data=0
+locus 44 d = 0.133333333333333 missing data=0
+locus 45 d = 0.533333333333333 missing data=0
+locus 46 d = 0.133333333333333 missing data=0
+locus 47 d = 0.0666666666666667 missing data=0
+locus 48 d = 0.133333333333333 missing data=0
+locus 49 d = 0.2 missing data=0
+locus 50 d = 0.533333333333333 missing data=0
+locus 51 d = 0.466666666666667 missing data=0
+locus 52 d = 0.0666666666666667 missing data=0
+locus 53 d = 0.5 missing data=1
+locus 54 d = 0.133333333333333 missing data=0
+locus 55 d = 0.466666666666667 missing data=0
+locus 56 d = 0.2 missing data=0
+locus 57 not used
+locus 58 d = 0.533333333333333 missing data=0
+locus 59 d = 0.333333333333333 missing data=0
+locus 60 d = 0.2 missing data=0
+locus 61 d = 0.0666666666666667 missing data=0
+locus 62 not used
+locus 63 d = 0.0666666666666667 missing data=0
+locus 64 d = 0.533333333333333 missing data=0
+locus 65 d = 0.2 missing data=0
+locus 66 not used
+locus 67 not used
+locus 68 d = 0.0666666666666667 missing data=0
+locus 69 d = 0.0769230769230769 missing data=2
+locus 70 d = 0.0666666666666667 missing data=0
+locus 71 not used
+locus 72 d = 0.0666666666666667 missing data=0
+locus 73 d = 0.285714285714286 missing data=1
+locus 74 d = 0.333333333333333 missing data=0
+locus 75 d = 0.733333333333333 missing data=0
+locus 76 d = 0.733333333333333 missing data=0
+locus 77 d = 0.466666666666667 missing data=0
+locus 78 d = 0.266666666666667 missing data=0
+locus 79 d = 0.333333333333333 missing data=0
+locus 80 d = 0.333333333333333 missing data=0
+locus 81 d = 0.0714285714285714 missing data=1
+locus 82 d = 0.0666666666666667 missing data=0
+locus 83 d = 0.0666666666666667 missing data=0
+locus 84 not used
+locus 85 d = 0.2 missing data=0
+locus 86 d = 0.0666666666666667 missing data=0
+locus 87 not used
+locus 88 d = 0.0666666666666667 missing data=0
+locus 89 not used
+locus 90 d = 0.533333333333333 missing data=0
+locus 91 d = 0.0666666666666667 missing data=0
+locus 92 d = 0.0666666666666667 missing data=0
+locus 93 d = 0.4 missing data=0
+locus 94 d = 0.2 missing data=0
+locus 95 d = 0.133333333333333 missing data=0
+locus 96 d = 0.0666666666666667 missing data=0
+locus 97 not used
+locus 98 d = 0.0666666666666667 missing data=0
+locus 99 not used
+locus 100 d = 0.0666666666666667 missing data=0
+locus 101 d = 0.0666666666666667 missing data=0
+locus 102 d = 0.466666666666667 missing data=0
+locus 103 d = 0.142857142857143 missing data=1
+locus 104 d = 0.6 missing data=0
+locus 105 d = 0.0714285714285714 missing data=1
+locus 106 d = 0.333333333333333 missing data=0
+locus 107 d = 0.266666666666667 missing data=0
+locus 108 d = 0.133333333333333 missing data=0
+locus 109 d = 0.0666666666666667 missing data=0
+locus 110 d = 0.0666666666666667 missing data=0
+locus 111 d = 0.466666666666667 missing data=0
+locus 112 d = 0.133333333333333 missing data=0
+locus 113 d = 0.4 missing data=0
+locus 114 d = 0.533333333333333 missing data=0
+locus 115 d = 0.466666666666667 missing data=0
+locus 116 d = 0.0666666666666667 missing data=0
+locus 117 d = 0.133333333333333 missing data=0
+locus 118 d = 0.0666666666666667 missing data=0
+locus 119 d = 0.333333333333333 missing data=0
+locus 120 d = 0.733333333333333 missing data=0
+locus 121 d = 0.533333333333333 missing data=0
+locus 122 d = 0.0666666666666667 missing data=0
+locus 123 d = 0.333333333333333 missing data=0
+locus 124 d = 0.133333333333333 missing data=0
+locus 125 d = 0.0666666666666667 missing data=0
+locus 126 not used
+locus 127 d = 0.0666666666666667 missing data=0
+locus 128 not used
+locus 129 d = 0.866666666666667 missing data=0
+locus 130 not used
+locus 131 d = 0.142857142857143 missing data=1
+locus 132 d = 0.133333333333333 missing data=0
+locus 133 d = 0.133333333333333 missing data=0
+locus 134 d = 0.0666666666666667 missing data=0
+locus 135 not used
+locus 136 d = 0.133333333333333 missing data=0
+locus 137 d = 0.5 missing data=1
+locus 138 d = 0.133333333333333 missing data=0
+locus 139 d = 0.933333333333333 missing data=0
+locus 140 d = 0.0769230769230769 missing data=2
+locus 141 d = 0.0666666666666667 missing data=0
+locus 142 d = 0.333333333333333 missing data=0
+locus 143 d = 0.866666666666667 missing data=0
+locus 144 d = 0.0714285714285714 missing data=1
+locus 145 d = 0.266666666666667 missing data=0
+locus 146 d = 0.733333333333333 missing data=0
+locus 147 d = 0.533333333333333 missing data=0
+locus 148 d = 0.4 missing data=0
+locus 149 d = 0.933333333333333 missing data=0
+locus 150 d = 0.0666666666666667 missing data=0
+locus 151 d = 0.692307692307692 missing data=2
+locus 152 not used
+locus 153 d = 0.0769230769230769 missing data=2
+locus 154 d = 0.2 missing data=0
+locus 155 d = 0.0666666666666667 missing data=0
+locus 156 d = 0.533333333333333 missing data=0
+locus 157 d = 0.0666666666666667 missing data=0
+locus 158 d = 0.133333333333333 missing data=0
+locus 159 d = 0.466666666666667 missing data=0
+locus 160 not used
+locus 161 d = 0.133333333333333 missing data=0
+locus 162 d = 0.2 missing data=0
+locus 163 d = 0.230769230769231 missing data=2
+locus 164 d = 0.133333333333333 missing data=0
+locus 165 d = 0.0666666666666667 missing data=0
+locus 166 d = 0.133333333333333 missing data=0
+locus 167 d = 0.466666666666667 missing data=0
+locus 168 d = 0.2 missing data=0
+locus 169 d = 0.133333333333333 missing data=0
+locus 170 d = 0.285714285714286 missing data=1
+locus 171 d = 0.466666666666667 missing data=0
+locus 172 d = 0.0666666666666667 missing data=0
+locus 173 d = 0.0666666666666667 missing data=0
+locus 174 not used
+locus 175 d = 0.266666666666667 missing data=0
+locus 176 not used
+locus 177 d = 0.266666666666667 missing data=0
+locus 178 d = 0.0714285714285714 missing data=1
+locus 179 not used
+locus 180 not used
+locus 181 d = 0.266666666666667 missing data=0
+locus 182 d = 0.133333333333333 missing data=0
+locus 183 d = 0.0666666666666667 missing data=0
+locus 184 d = 0.533333333333333 missing data=0
+locus 185 d = 0.0666666666666667 missing data=0
+locus 186 d = 0.2 missing data=0
+locus 187 not used
+locus 188 d = 0.466666666666667 missing data=0
+locus 189 d = 0.0769230769230769 missing data=2
+locus 190 d = 0.0714285714285714 missing data=1
+locus 191 d = 0.25 missing data=3
+locus 192 d = 0.2 missing data=0
+locus 193 d = 0.466666666666667 missing data=0
+locus 194 d = 0.4 missing data=0
+locus 195 d = 0.333333333333333 missing data=0
+locus 196 not used
+locus 197 d = 0.133333333333333 missing data=0
+locus 198 d = 0.266666666666667 missing data=0
+locus 199 d = 0.533333333333333 missing data=0
+locus 200 not used
+ 
+*******************************
+population :AU-WA
+n=17
+nloci=200 of which 19 useless (loci excluded :1  2  5  8  12  20  27  31  36  40  68  90  106  132  154  156  163  165  178   )
+
+g2= -0.00639026149223076 ; sd= 0.00331501691929984 ; expected bias = 6.46431600081374E-7
+s(g2)=0 ; sd= 0 ; expected bias = 0
+p-value (H0: g2=s=0) = 0.984 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -1562.45976518107
+s= 0
+CI95(s) = [ 0 , 0.052734375 ]
+locus 1 not used
+locus 2 not used
+locus 3 d = 0.176470588235294 missing data=0
+locus 4 d = 0.25 missing data=1
+locus 5 not used
+locus 6 d = 0.375 missing data=1
+locus 7 d = 0.529411764705882 missing data=0
+locus 8 not used
+locus 9 d = 0.235294117647059 missing data=0
+locus 10 d = 0.117647058823529 missing data=0
+locus 11 d = 0.117647058823529 missing data=0
+locus 12 not used
+locus 13 d = 0.6875 missing data=1
+locus 14 d = 0.294117647058824 missing data=0
+locus 15 d = 0.117647058823529 missing data=0
+locus 16 d = 0.470588235294118 missing data=0
+locus 17 d = 0.823529411764706 missing data=0
+locus 18 d = 0.529411764705882 missing data=0
+locus 19 d = 0.235294117647059 missing data=0
+locus 20 not used
+locus 21 d = 0.411764705882353 missing data=0
+locus 22 d = 0.176470588235294 missing data=0
+locus 23 d = 0.625 missing data=1
+locus 24 d = 0.176470588235294 missing data=0
+locus 25 d = 0.176470588235294 missing data=0
+locus 26 d = 0.117647058823529 missing data=0
+locus 27 not used
+locus 28 d = 0.0588235294117647 missing data=0
+locus 29 d = 0.117647058823529 missing data=0
+locus 30 d = 0.352941176470588 missing data=0
+locus 31 not used
+locus 32 d = 0.1875 missing data=1
+locus 33 d = 0.411764705882353 missing data=0
+locus 34 d = 0.352941176470588 missing data=0
+locus 35 d = 0.411764705882353 missing data=0
+locus 36 not used
+locus 37 d = 0.294117647058824 missing data=0
+locus 38 d = 0.0588235294117647 missing data=0
+locus 39 d = 0.235294117647059 missing data=0
+locus 40 not used
+locus 41 d = 0.117647058823529 missing data=0
+locus 42 d = 0.352941176470588 missing data=0
+locus 43 d = 0.235294117647059 missing data=0
+locus 44 d = 0.0588235294117647 missing data=0
+locus 45 d = 0.0909090909090909 missing data=6
+locus 46 d = 0.411764705882353 missing data=0
+locus 47 d = 0.0588235294117647 missing data=0
+locus 48 d = 0.4 missing data=2
+locus 49 d = 0.352941176470588 missing data=0
+locus 50 d = 0.176470588235294 missing data=0
+locus 51 d = 0.0588235294117647 missing data=0
+locus 52 d = 0.352941176470588 missing data=0
+locus 53 d = 0.411764705882353 missing data=0
+locus 54 d = 0.352941176470588 missing data=0
+locus 55 d = 0.176470588235294 missing data=0
+locus 56 d = 0.647058823529412 missing data=0
+locus 57 d = 0.117647058823529 missing data=0
+locus 58 d = 0.294117647058824 missing data=0
+locus 59 d = 0.176470588235294 missing data=0
+locus 60 d = 0.529411764705882 missing data=0
+locus 61 d = 0.117647058823529 missing data=0
+locus 62 d = 0.294117647058824 missing data=0
+locus 63 d = 0.411764705882353 missing data=0
+locus 64 d = 0.588235294117647 missing data=0
+locus 65 d = 0.235294117647059 missing data=0
+locus 66 d = 0.235294117647059 missing data=0
+locus 67 d = 0.2 missing data=2
+locus 68 not used
+locus 69 d = 0.3125 missing data=1
+locus 70 d = 0.0588235294117647 missing data=0
+locus 71 d = 0.235294117647059 missing data=0
+locus 72 d = 0.352941176470588 missing data=0
+locus 73 d = 0.0588235294117647 missing data=0
+locus 74 d = 0.823529411764706 missing data=0
+locus 75 d = 0.117647058823529 missing data=0
+locus 76 d = 0.529411764705882 missing data=0
+locus 77 d = 0.125 missing data=1
+locus 78 d = 0.117647058823529 missing data=0
+locus 79 d = 0.764705882352941 missing data=0
+locus 80 d = 0.588235294117647 missing data=0
+locus 81 d = 0.466666666666667 missing data=2
+locus 82 d = 0.4375 missing data=1
+locus 83 d = 0.176470588235294 missing data=0
+locus 84 d = 0.0588235294117647 missing data=0
+locus 85 d = 0.266666666666667 missing data=2
+locus 86 d = 0.117647058823529 missing data=0
+locus 87 d = 0.647058823529412 missing data=0
+locus 88 d = 0.764705882352941 missing data=0
+locus 89 d = 0.294117647058824 missing data=0
+locus 90 not used
+locus 91 d = 0.117647058823529 missing data=0
+locus 92 d = 0.705882352941176 missing data=0
+locus 93 d = 0.176470588235294 missing data=0
+locus 94 d = 0.235294117647059 missing data=0
+locus 95 d = 0.176470588235294 missing data=0
+locus 96 d = 0.176470588235294 missing data=0
+locus 97 d = 0.117647058823529 missing data=0
+locus 98 d = 0.588235294117647 missing data=0
+locus 99 d = 0.470588235294118 missing data=0
+locus 100 d = 0.352941176470588 missing data=0
+locus 101 d = 0.142857142857143 missing data=3
+locus 102 d = 0.461538461538462 missing data=4
+locus 103 d = 0.0588235294117647 missing data=0
+locus 104 d = 0.0588235294117647 missing data=0
+locus 105 d = 0.470588235294118 missing data=0
+locus 106 not used
+locus 107 d = 0.176470588235294 missing data=0
+locus 108 d = 0.117647058823529 missing data=0
+locus 109 d = 0.117647058823529 missing data=0
+locus 110 d = 0.176470588235294 missing data=0
+locus 111 d = 0.352941176470588 missing data=0
+locus 112 d = 0.0588235294117647 missing data=0
+locus 113 d = 0.294117647058824 missing data=0
+locus 114 d = 0.0588235294117647 missing data=0
+locus 115 d = 0.529411764705882 missing data=0
+locus 116 d = 0.705882352941176 missing data=0
+locus 117 d = 0.0588235294117647 missing data=0
+locus 118 d = 0.411764705882353 missing data=0
+locus 119 d = 0.705882352941176 missing data=0
+locus 120 d = 0.133333333333333 missing data=2
+locus 121 d = 0.176470588235294 missing data=0
+locus 122 d = 0.0588235294117647 missing data=0
+locus 123 d = 0.0588235294117647 missing data=0
+locus 124 d = 0.0588235294117647 missing data=0
+locus 125 d = 0.588235294117647 missing data=0
+locus 126 d = 0.529411764705882 missing data=0
+locus 127 d = 0.411764705882353 missing data=0
+locus 128 d = 0.529411764705882 missing data=0
+locus 129 d = 0.647058823529412 missing data=0
+locus 130 d = 0.352941176470588 missing data=0
+locus 131 d = 0.117647058823529 missing data=0
+locus 132 not used
+locus 133 d = 0.117647058823529 missing data=0
+locus 134 d = 0.352941176470588 missing data=0
+locus 135 d = 0.294117647058824 missing data=0
+locus 136 d = 0.176470588235294 missing data=0
+locus 137 d = 0.529411764705882 missing data=0
+locus 138 d = 0.533333333333333 missing data=2
+locus 139 d = 0.0588235294117647 missing data=0
+locus 140 d = 0.294117647058824 missing data=0
+locus 141 d = 0.0588235294117647 missing data=0
+locus 142 d = 0.529411764705882 missing data=0
+locus 143 d = 0.588235294117647 missing data=0
+locus 144 d = 0.647058823529412 missing data=0
+locus 145 d = 0.882352941176471 missing data=0
+locus 146 d = 0.470588235294118 missing data=0
+locus 147 d = 0.176470588235294 missing data=0
+locus 148 d = 0.411764705882353 missing data=0
+locus 149 d = 0.176470588235294 missing data=0
+locus 150 d = 0.625 missing data=1
+locus 151 d = 0.352941176470588 missing data=0
+locus 152 d = 0.588235294117647 missing data=0
+locus 153 d = 0.25 missing data=9
+locus 154 not used
+locus 155 d = 0.352941176470588 missing data=0
+locus 156 not used
+locus 157 d = 0.333333333333333 missing data=5
+locus 158 d = 0.529411764705882 missing data=0
+locus 159 d = 0.352941176470588 missing data=0
+locus 160 d = 0.235294117647059 missing data=0
+locus 161 d = 0.117647058823529 missing data=0
+locus 162 d = 0.705882352941176 missing data=0
+locus 163 not used
+locus 164 d = 0.294117647058824 missing data=0
+locus 165 not used
+locus 166 d = 0.764705882352941 missing data=0
+locus 167 d = 0.529411764705882 missing data=0
+locus 168 d = 0.176470588235294 missing data=0
+locus 169 d = 0.176470588235294 missing data=0
+locus 170 d = 0.294117647058824 missing data=0
+locus 171 d = 0.235294117647059 missing data=0
+locus 172 d = 0.352941176470588 missing data=0
+locus 173 d = 0.0588235294117647 missing data=0
+locus 174 d = 0.117647058823529 missing data=0
+locus 175 d = 0.588235294117647 missing data=0
+locus 176 d = 0.0625 missing data=1
+locus 177 d = 0.529411764705882 missing data=0
+locus 178 not used
+locus 179 d = 0.411764705882353 missing data=0
+locus 180 d = 0.117647058823529 missing data=0
+locus 181 d = 0.294117647058824 missing data=0
+locus 182 d = 0.0588235294117647 missing data=0
+locus 183 d = 0.294117647058824 missing data=0
+locus 184 d = 0.941176470588235 missing data=0
+locus 185 d = 0.529411764705882 missing data=0
+locus 186 d = 0.294117647058824 missing data=0
+locus 187 d = 0.294117647058824 missing data=0
+locus 188 d = 0.411764705882353 missing data=0
+locus 189 d = 0.6875 missing data=1
+locus 190 d = 0.117647058823529 missing data=0
+locus 191 d = 0.4375 missing data=1
+locus 192 d = 0.0588235294117647 missing data=0
+locus 193 d = 0.1875 missing data=1
+locus 194 d = 0.117647058823529 missing data=0
+locus 195 d = 0.235294117647059 missing data=0
+locus 196 d = 0.882352941176471 missing data=0
+locus 197 d = 0.117647058823529 missing data=0
+locus 198 d = 0.117647058823529 missing data=0
+locus 199 d = 0.176470588235294 missing data=0
+locus 200 d = 0.411764705882353 missing data=0
+ 
+*******************************
+population :CEu-Belgium
+n=36
+nloci=200 of which 8 useless (loci excluded :4  15  23  31  58  78  130  161   )
+
+g2= -0.00719520952790559 ; sd= 0.00486429181500569 ; expected bias = 6.57259303298903E-7
+s(g2)=0 ; sd= 0 ; expected bias = 0
+p-value (H0: g2=s=0) = 0.93 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -2398.66210225506
+s= 0
+CI95(s) = [ 0 , 0.0390625 ]
+locus 1 d = 0.0277777777777778 missing data=0
+locus 2 d = 0.277777777777778 missing data=0
+locus 3 d = 0.0277777777777778 missing data=0
+locus 4 not used
+locus 5 d = 0.194444444444444 missing data=0
+locus 6 d = 0.472222222222222 missing data=0
+locus 7 d = 0.0555555555555556 missing data=0
+locus 8 d = 0.0909090909090909 missing data=3
+locus 9 d = 0.444444444444444 missing data=0
+locus 10 d = 0.0294117647058824 missing data=2
+locus 11 d = 0.0555555555555556 missing data=0
+locus 12 d = 0.444444444444444 missing data=0
+locus 13 d = 0.166666666666667 missing data=0
+locus 14 d = 0.138888888888889 missing data=0
+locus 15 not used
+locus 16 d = 0.0277777777777778 missing data=0
+locus 17 d = 0.0555555555555556 missing data=0
+locus 18 d = 0.0555555555555556 missing data=0
+locus 19 d = 0.444444444444444 missing data=0
+locus 20 d = 0.342857142857143 missing data=1
+locus 21 d = 0.444444444444444 missing data=0
+locus 22 d = 0.555555555555556 missing data=0
+locus 23 not used
+locus 24 d = 0.0277777777777778 missing data=0
+locus 25 d = 0.333333333333333 missing data=0
+locus 26 d = 0.0571428571428571 missing data=1
+locus 27 d = 0.0277777777777778 missing data=0
+locus 28 d = 0.0277777777777778 missing data=0
+locus 29 d = 0.0277777777777778 missing data=0
+locus 30 d = 0.117647058823529 missing data=2
+locus 31 not used
+locus 32 d = 0.0277777777777778 missing data=0
+locus 33 d = 0.361111111111111 missing data=0
+locus 34 d = 0.0277777777777778 missing data=0
+locus 35 d = 0.0555555555555556 missing data=0
+locus 36 d = 0.5 missing data=0
+locus 37 d = 0.444444444444444 missing data=0
+locus 38 d = 0.0555555555555556 missing data=0
+locus 39 d = 0.416666666666667 missing data=0
+locus 40 d = 0.0277777777777778 missing data=0
+locus 41 d = 0.222222222222222 missing data=0
+locus 42 d = 0.361111111111111 missing data=0
+locus 43 d = 0.0277777777777778 missing data=0
+locus 44 d = 0.138888888888889 missing data=0
+locus 45 d = 0.142857142857143 missing data=1
+locus 46 d = 0.0277777777777778 missing data=0
+locus 47 d = 0.0555555555555556 missing data=0
+locus 48 d = 0.0277777777777778 missing data=0
+locus 49 d = 0.138888888888889 missing data=0
+locus 50 d = 0.0277777777777778 missing data=0
+locus 51 d = 0.0555555555555556 missing data=0
+locus 52 d = 0.111111111111111 missing data=0
+locus 53 d = 0.0277777777777778 missing data=0
+locus 54 d = 0.138888888888889 missing data=0
+locus 55 d = 0.111111111111111 missing data=0
+locus 56 d = 0.0555555555555556 missing data=0
+locus 57 d = 0.0555555555555556 missing data=0
+locus 58 not used
+locus 59 d = 0.861111111111111 missing data=0
+locus 60 d = 0.0555555555555556 missing data=0
+locus 61 d = 0.0277777777777778 missing data=0
+locus 62 d = 0.277777777777778 missing data=0
+locus 63 d = 0.416666666666667 missing data=0
+locus 64 d = 0.0555555555555556 missing data=0
+locus 65 d = 0.0833333333333333 missing data=0
+locus 66 d = 0.361111111111111 missing data=0
+locus 67 d = 0.25 missing data=0
+locus 68 d = 0.138888888888889 missing data=0
+locus 69 d = 0.194444444444444 missing data=0
+locus 70 d = 0.0277777777777778 missing data=0
+locus 71 d = 0.0277777777777778 missing data=0
+locus 72 d = 0.138888888888889 missing data=0
+locus 73 d = 0.472222222222222 missing data=0
+locus 74 d = 0.46875 missing data=4
+locus 75 d = 0.0555555555555556 missing data=0
+locus 76 d = 0.5 missing data=0
+locus 77 d = 0.0625 missing data=4
+locus 78 not used
+locus 79 d = 0.171428571428571 missing data=1
+locus 80 d = 0.0555555555555556 missing data=0
+locus 81 d = 0.0833333333333333 missing data=0
+locus 82 d = 0.0833333333333333 missing data=0
+locus 83 d = 0.0833333333333333 missing data=0
+locus 84 d = 0.0833333333333333 missing data=0
+locus 85 d = 0.0277777777777778 missing data=0
+locus 86 d = 0.272727272727273 missing data=3
+locus 87 d = 0.444444444444444 missing data=0
+locus 88 d = 0.0555555555555556 missing data=0
+locus 89 d = 0.0833333333333333 missing data=0
+locus 90 d = 0.166666666666667 missing data=0
+locus 91 d = 0.0277777777777778 missing data=0
+locus 92 d = 0.0833333333333333 missing data=0
+locus 93 d = 0.361111111111111 missing data=0
+locus 94 d = 0.416666666666667 missing data=0
+locus 95 d = 0.228571428571429 missing data=1
+locus 96 d = 0.0277777777777778 missing data=0
+locus 97 d = 0.0277777777777778 missing data=0
+locus 98 d = 0.0833333333333333 missing data=0
+locus 99 d = 0.0555555555555556 missing data=0
+locus 100 d = 0.0277777777777778 missing data=0
+locus 101 d = 0.138888888888889 missing data=0
+locus 102 d = 0.5 missing data=0
+locus 103 d = 0.0571428571428571 missing data=1
+locus 104 d = 0.444444444444444 missing data=0
+locus 105 d = 0.0833333333333333 missing data=0
+locus 106 d = 0.0555555555555556 missing data=0
+locus 107 d = 0.138888888888889 missing data=0
+locus 108 d = 0.0277777777777778 missing data=0
+locus 109 d = 0.472222222222222 missing data=0
+locus 110 d = 0.111111111111111 missing data=0
+locus 111 d = 0.0555555555555556 missing data=0
+locus 112 d = 0.5 missing data=0
+locus 113 d = 0.111111111111111 missing data=0
+locus 114 d = 0.137931034482759 missing data=7
+locus 115 d = 0.0555555555555556 missing data=0
+locus 116 d = 0.333333333333333 missing data=0
+locus 117 d = 0.0833333333333333 missing data=0
+locus 118 d = 0.111111111111111 missing data=0
+locus 119 d = 0.0277777777777778 missing data=0
+locus 120 d = 0.0277777777777778 missing data=0
+locus 121 d = 0.0277777777777778 missing data=0
+locus 122 d = 0.138888888888889 missing data=0
+locus 123 d = 0.583333333333333 missing data=0
+locus 124 d = 0.0277777777777778 missing data=0
+locus 125 d = 0.0571428571428571 missing data=1
+locus 126 d = 0.0277777777777778 missing data=0
+locus 127 d = 0.111111111111111 missing data=0
+locus 128 d = 0.0277777777777778 missing data=0
+locus 129 d = 0.111111111111111 missing data=0
+locus 130 not used
+locus 131 d = 0.0555555555555556 missing data=0
+locus 132 d = 0.194444444444444 missing data=0
+locus 133 d = 0.0277777777777778 missing data=0
+locus 134 d = 0.0833333333333333 missing data=0
+locus 135 d = 0.114285714285714 missing data=1
+locus 136 d = 0.0571428571428571 missing data=1
+locus 137 d = 0.472222222222222 missing data=0
+locus 138 d = 0.0833333333333333 missing data=0
+locus 139 d = 0.0555555555555556 missing data=0
+locus 140 d = 0.0277777777777778 missing data=0
+locus 141 d = 0.0303030303030303 missing data=3
+locus 142 d = 0.0277777777777778 missing data=0
+locus 143 d = 0.0555555555555556 missing data=0
+locus 144 d = 0.0833333333333333 missing data=0
+locus 145 d = 0.0833333333333333 missing data=0
+locus 146 d = 0.0833333333333333 missing data=0
+locus 147 d = 0.111111111111111 missing data=0
+locus 148 d = 0.0833333333333333 missing data=0
+locus 149 d = 0.0555555555555556 missing data=0
+locus 150 d = 0.0277777777777778 missing data=0
+locus 151 d = 0.444444444444444 missing data=0
+locus 152 d = 0.0833333333333333 missing data=0
+locus 153 d = 0.424242424242424 missing data=3
+locus 154 d = 0.0571428571428571 missing data=1
+locus 155 d = 0.0344827586206897 missing data=7
+locus 156 d = 0.0277777777777778 missing data=0
+locus 157 d = 0.314285714285714 missing data=1
+locus 158 d = 0.0555555555555556 missing data=0
+locus 159 d = 0.0277777777777778 missing data=0
+locus 160 d = 0.416666666666667 missing data=0
+locus 161 not used
+locus 162 d = 0.916666666666667 missing data=0
+locus 163 d = 0.0555555555555556 missing data=0
+locus 164 d = 0.0555555555555556 missing data=0
+locus 165 d = 0.114285714285714 missing data=1
+locus 166 d = 0.138888888888889 missing data=0
+locus 167 d = 0.527777777777778 missing data=0
+locus 168 d = 0.277777777777778 missing data=0
+locus 169 d = 0.0277777777777778 missing data=0
+locus 170 d = 0.0277777777777778 missing data=0
+locus 171 d = 0.666666666666667 missing data=0
+locus 172 d = 0.138888888888889 missing data=0
+locus 173 d = 0.0294117647058824 missing data=2
+locus 174 d = 0.25 missing data=0
+locus 175 d = 0.0555555555555556 missing data=0
+locus 176 d = 0.444444444444444 missing data=0
+locus 177 d = 0.527777777777778 missing data=0
+locus 178 d = 0.0857142857142857 missing data=1
+locus 179 d = 0.25 missing data=0
+locus 180 d = 0.0277777777777778 missing data=0
+locus 181 d = 0.0277777777777778 missing data=0
+locus 182 d = 0.111111111111111 missing data=0
+locus 183 d = 0.0555555555555556 missing data=0
+locus 184 d = 0.0277777777777778 missing data=0
+locus 185 d = 0.138888888888889 missing data=0
+locus 186 d = 0.0555555555555556 missing data=0
+locus 187 d = 0.222222222222222 missing data=0
+locus 188 d = 0.0857142857142857 missing data=1
+locus 189 d = 0.0555555555555556 missing data=0
+locus 190 d = 0.0555555555555556 missing data=0
+locus 191 d = 0.0833333333333333 missing data=0
+locus 192 d = 0.111111111111111 missing data=0
+locus 193 d = 0.305555555555556 missing data=0
+locus 194 d = 0.0277777777777778 missing data=0
+locus 195 d = 0.361111111111111 missing data=0
+locus 196 d = 0.222222222222222 missing data=0
+locus 197 d = 0.0277777777777778 missing data=0
+locus 198 d = 0.555555555555556 missing data=0
+locus 199 d = 0.0571428571428571 missing data=1
+locus 200 d = 0.444444444444444 missing data=0
+ 
+*******************************
+population :NAm-MA
+n=17
+nloci=200 of which 22 useless (loci excluded :9  39  52  54  56  57  59  65  83  101  114  115  134  155  163  166  173  179  180  185  187  188   )
+
+g2= 0.00566016284909704 ; sd= 0.0112496601187292 ; expected bias = 0.000347043618272434
+s(g2)=0.0220202061849244 ; sd= 0.0425713055308796 ; expected bias = -0.000987621573063943
+p-value (H0: g2=s=0) = 0.148 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -1289.60901984474
+s= 0
+CI95(s) = [ 0 , 0.0595703125 ]
+locus 1 d = 0.266666666666667 missing data=2
+locus 2 d = 0.117647058823529 missing data=0
+locus 3 d = 0.0588235294117647 missing data=0
+locus 4 d = 0.235294117647059 missing data=0
+locus 5 d = 0.0588235294117647 missing data=0
+locus 6 d = 0.235294117647059 missing data=0
+locus 7 d = 0.0588235294117647 missing data=0
+locus 8 d = 0.0625 missing data=1
+locus 9 not used
+locus 10 d = 0.176470588235294 missing data=0
+locus 11 d = 0.0588235294117647 missing data=0
+locus 12 d = 0.0588235294117647 missing data=0
+locus 13 d = 0.529411764705882 missing data=0
+locus 14 d = 0.0588235294117647 missing data=0
+locus 15 d = 0.0625 missing data=1
+locus 16 d = 0.266666666666667 missing data=2
+locus 17 d = 0.588235294117647 missing data=0
+locus 18 d = 0.0588235294117647 missing data=0
+locus 19 d = 0.0588235294117647 missing data=0
+locus 20 d = 0.133333333333333 missing data=2
+locus 21 d = 0.0588235294117647 missing data=0
+locus 22 d = 0.176470588235294 missing data=0
+locus 23 d = 0.5 missing data=1
+locus 24 d = 0.0588235294117647 missing data=0
+locus 25 d = 0.176470588235294 missing data=0
+locus 26 d = 0.0588235294117647 missing data=0
+locus 27 d = 0.176470588235294 missing data=0
+locus 28 d = 0.4375 missing data=1
+locus 29 d = 0.352941176470588 missing data=0
+locus 30 d = 0.117647058823529 missing data=0
+locus 31 d = 0.176470588235294 missing data=0
+locus 32 d = 0.0588235294117647 missing data=0
+locus 33 d = 0.235294117647059 missing data=0
+locus 34 d = 0.266666666666667 missing data=2
+locus 35 d = 0.0588235294117647 missing data=0
+locus 36 d = 0.176470588235294 missing data=0
+locus 37 d = 0.75 missing data=1
+locus 38 d = 0.0588235294117647 missing data=0
+locus 39 not used
+locus 40 d = 0.176470588235294 missing data=0
+locus 41 d = 0.294117647058824 missing data=0
+locus 42 d = 0.235294117647059 missing data=0
+locus 43 d = 0.117647058823529 missing data=0
+locus 44 d = 0.0588235294117647 missing data=0
+locus 45 d = 0.941176470588235 missing data=0
+locus 46 d = 0.764705882352941 missing data=0
+locus 47 d = 0.470588235294118 missing data=0
+locus 48 d = 0.117647058823529 missing data=0
+locus 49 d = 0.117647058823529 missing data=0
+locus 50 d = 0.176470588235294 missing data=0
+locus 51 d = 0.235294117647059 missing data=0
+locus 52 not used
+locus 53 d = 0.117647058823529 missing data=0
+locus 54 not used
+locus 55 d = 0.117647058823529 missing data=0
+locus 56 not used
+locus 57 not used
+locus 58 d = 0.0666666666666667 missing data=2
+locus 59 not used
+locus 60 d = 0.117647058823529 missing data=0
+locus 61 d = 0.529411764705882 missing data=0
+locus 62 d = 0.588235294117647 missing data=0
+locus 63 d = 0.294117647058824 missing data=0
+locus 64 d = 0.411764705882353 missing data=0
+locus 65 not used
+locus 66 d = 0.235294117647059 missing data=0
+locus 67 d = 0.588235294117647 missing data=0
+locus 68 d = 0.0588235294117647 missing data=0
+locus 69 d = 0.0588235294117647 missing data=0
+locus 70 d = 0.352941176470588 missing data=0
+locus 71 d = 0.117647058823529 missing data=0
+locus 72 d = 0.117647058823529 missing data=0
+locus 73 d = 0.176470588235294 missing data=0
+locus 74 d = 0.4375 missing data=1
+locus 75 d = 0.0588235294117647 missing data=0
+locus 76 d = 0.235294117647059 missing data=0
+locus 77 d = 0.117647058823529 missing data=0
+locus 78 d = 0.0666666666666667 missing data=2
+locus 79 d = 0.529411764705882 missing data=0
+locus 80 d = 0.0588235294117647 missing data=0
+locus 81 d = 0.117647058823529 missing data=0
+locus 82 d = 0.470588235294118 missing data=0
+locus 83 not used
+locus 84 d = 0.352941176470588 missing data=0
+locus 85 d = 0.0588235294117647 missing data=0
+locus 86 d = 0.352941176470588 missing data=0
+locus 87 d = 0.352941176470588 missing data=0
+locus 88 d = 0.176470588235294 missing data=0
+locus 89 d = 0.529411764705882 missing data=0
+locus 90 d = 0.625 missing data=1
+locus 91 d = 0.117647058823529 missing data=0
+locus 92 d = 0.117647058823529 missing data=0
+locus 93 d = 0.117647058823529 missing data=0
+locus 94 d = 0.117647058823529 missing data=0
+locus 95 d = 0.176470588235294 missing data=0
+locus 96 d = 0.117647058823529 missing data=0
+locus 97 d = 0.0588235294117647 missing data=0
+locus 98 d = 0.117647058823529 missing data=0
+locus 99 d = 0.142857142857143 missing data=3
+locus 100 d = 0.411764705882353 missing data=0
+locus 101 not used
+locus 102 d = 0.0588235294117647 missing data=0
+locus 103 d = 0.176470588235294 missing data=0
+locus 104 d = 0.0588235294117647 missing data=0
+locus 105 d = 0.0588235294117647 missing data=0
+locus 106 d = 0.411764705882353 missing data=0
+locus 107 d = 0.0588235294117647 missing data=0
+locus 108 d = 0.3125 missing data=1
+locus 109 d = 0.294117647058824 missing data=0
+locus 110 d = 0.0588235294117647 missing data=0
+locus 111 d = 0.75 missing data=1
+locus 112 d = 0.117647058823529 missing data=0
+locus 113 d = 0.176470588235294 missing data=0
+locus 114 not used
+locus 115 not used
+locus 116 d = 0.1875 missing data=1
+locus 117 d = 0.235294117647059 missing data=0
+locus 118 d = 0.266666666666667 missing data=2
+locus 119 d = 0.125 missing data=1
+locus 120 d = 0.294117647058824 missing data=0
+locus 121 d = 0.176470588235294 missing data=0
+locus 122 d = 0.0588235294117647 missing data=0
+locus 123 d = 0.176470588235294 missing data=0
+locus 124 d = 0.1875 missing data=1
+locus 125 d = 0.0588235294117647 missing data=0
+locus 126 d = 0.0588235294117647 missing data=0
+locus 127 d = 0.0666666666666667 missing data=2
+locus 128 d = 0.4 missing data=2
+locus 129 d = 0.823529411764706 missing data=0
+locus 130 d = 0.588235294117647 missing data=0
+locus 131 d = 0.0588235294117647 missing data=0
+locus 132 d = 0.470588235294118 missing data=0
+locus 133 d = 0.4375 missing data=1
+locus 134 not used
+locus 135 d = 0.352941176470588 missing data=0
+locus 136 d = 0.117647058823529 missing data=0
+locus 137 d = 0.0588235294117647 missing data=0
+locus 138 d = 0.0588235294117647 missing data=0
+locus 139 d = 0.0588235294117647 missing data=0
+locus 140 d = 0.25 missing data=1
+locus 141 d = 0.470588235294118 missing data=0
+locus 142 d = 0.0588235294117647 missing data=0
+locus 143 d = 0.0588235294117647 missing data=0
+locus 144 d = 0.647058823529412 missing data=0
+locus 145 d = 0.705882352941176 missing data=0
+locus 146 d = 0.176470588235294 missing data=0
+locus 147 d = 0.705882352941176 missing data=0
+locus 148 d = 0.0588235294117647 missing data=0
+locus 149 d = 0.117647058823529 missing data=0
+locus 150 d = 0.176470588235294 missing data=0
+locus 151 d = 0.125 missing data=1
+locus 152 d = 0.125 missing data=1
+locus 153 d = 0.0588235294117647 missing data=0
+locus 154 d = 0.0588235294117647 missing data=0
+locus 155 not used
+locus 156 d = 0.470588235294118 missing data=0
+locus 157 d = 0.588235294117647 missing data=0
+locus 158 d = 0.294117647058824 missing data=0
+locus 159 d = 0.294117647058824 missing data=0
+locus 160 d = 0.857142857142857 missing data=3
+locus 161 d = 0.117647058823529 missing data=0
+locus 162 d = 0.0625 missing data=1
+locus 163 not used
+locus 164 d = 0.529411764705882 missing data=0
+locus 165 d = 0.411764705882353 missing data=0
+locus 166 not used
+locus 167 d = 0.0588235294117647 missing data=0
+locus 168 d = 0.0588235294117647 missing data=0
+locus 169 d = 0.294117647058824 missing data=0
+locus 170 d = 0.235294117647059 missing data=0
+locus 171 d = 0.2 missing data=2
+locus 172 d = 0.294117647058824 missing data=0
+locus 173 not used
+locus 174 d = 0.0588235294117647 missing data=0
+locus 175 d = 0.117647058823529 missing data=0
+locus 176 d = 0.0588235294117647 missing data=0
+locus 177 d = 0.0588235294117647 missing data=0
+locus 178 d = 0.235294117647059 missing data=0
+locus 179 not used
+locus 180 not used
+locus 181 d = 0.823529411764706 missing data=0
+locus 182 d = 0.352941176470588 missing data=0
+locus 183 d = 0.235294117647059 missing data=0
+locus 184 d = 0.235294117647059 missing data=0
+locus 185 not used
+locus 186 d = 0.0588235294117647 missing data=0
+locus 187 not used
+locus 188 not used
+locus 189 d = 0.153846153846154 missing data=4
+locus 190 d = 0.533333333333333 missing data=2
+locus 191 d = 0.117647058823529 missing data=0
+locus 192 d = 0.0588235294117647 missing data=0
+locus 193 d = 0.117647058823529 missing data=0
+locus 194 d = 0.0588235294117647 missing data=0
+locus 195 d = 0.0588235294117647 missing data=0
+locus 196 d = 0.235294117647059 missing data=0
+locus 197 d = 0.0588235294117647 missing data=0
+locus 198 d = 0.266666666666667 missing data=2
+locus 199 d = 0.0625 missing data=1
+locus 200 d = 0.352941176470588 missing data=0
+ 
+*******************************
+population :NZ
+n=28
+nloci=200 of which 34 useless (loci excluded :1  14  29  38  39  40  42  45  49  54  64  65  67  69  72  74  81  84  87  91  102  103  116  118  121  124  131  139  146  157  171  178  180  181   )
+
+g2= 0.0150359076933526 ; sd= 0.0138797164622625 ; expected bias = 0.000570688470460469
+s(g2)=0.0559820485795657 ; sd= 0.0481392452376119 ; expected bias = -0.00103566948477717
+p-value (H0: g2=s=0) = 0.004 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -1913.87578814027
+s= 0.0685048921982767
+CI95(s) = [ 0.0251541401040547 , 0.12854266281831 ]
+locus 1 not used
+locus 2 d = 0.0371039485960202 missing data=0
+locus 3 d = 0.697714102005682 missing data=0
+locus 4 d = 0.365580311396051 missing data=0
+locus 5 d = 0.186112939833644 missing data=0
+locus 6 d = 0.148679252175058 missing data=0
+locus 7 d = 0.186113632617768 missing data=0
+locus 8 d = 0.0742635980658801 missing data=0
+locus 9 d = 0.0742635948007085 missing data=0
+locus 10 d = 0.182365897055104 missing data=0
+locus 11 d = 0.0771322405041992 missing data=1
+locus 12 d = 0.0770853417275222 missing data=1
+locus 13 d = 0.261032194060535 missing data=0
+locus 14 not used
+locus 15 d = 0.223533746930127 missing data=0
+locus 16 d = 0.148673177753663 missing data=0
+locus 17 d = 0.189169204141015 missing data=1
+locus 18 d = 0.411625412083063 missing data=0
+locus 19 d = 0.186113646533138 missing data=0
+locus 20 d = 0.148673812718797 missing data=0
+locus 21 d = 0.1861129651185 missing data=0
+locus 22 d = 0.0385348454922324 missing data=1
+locus 23 d = 0.185998322221497 missing data=0
+locus 24 d = 0.623316283045999 missing data=0
+locus 25 d = 0.191584416298281 missing data=6
+locus 26 d = 0.111482484977475 missing data=0
+locus 27 d = 0.0728183763752517 missing data=0
+locus 28 d = 0.0371039493911868 missing data=0
+locus 29 not used
+locus 30 d = 0.298416708732763 missing data=0
+locus 31 d = 0.0385347076591977 missing data=1
+locus 32 d = 0.11148208897866 missing data=0
+locus 33 d = 0.697696140810073 missing data=0
+locus 34 d = 0.564153540408512 missing data=0
+locus 35 d = 0.109330118321214 missing data=0
+locus 36 d = 0.148764435144174 missing data=0
+locus 37 d = 0.0444972590871486 missing data=5
+locus 38 not used
+locus 39 not used
+locus 40 not used
+locus 41 d = 0.037103950098275 missing data=0
+locus 42 not used
+locus 43 d = 0.487980932542873 missing data=0
+locus 44 d = 0.232090557374993 missing data=1
+locus 45 not used
+locus 46 d = 0.477159936077117 missing data=0
+locus 47 d = 0.250296540726395 missing data=0
+locus 48 d = 0.11148231507421 missing data=0
+locus 49 not used
+locus 50 d = 0.232234723364092 missing data=1
+locus 51 d = 0.186112959324196 missing data=0
+locus 52 d = 0.074263597865822 missing data=0
+locus 53 d = 0.526192296075209 missing data=0
+locus 54 not used
+locus 55 d = 0.388480211197784 missing data=1
+locus 56 d = 0.411887373177986 missing data=0
+locus 57 d = 0.0371039478150277 missing data=0
+locus 58 d = 0.328652864352103 missing data=0
+locus 59 d = 0.0385348429140226 missing data=1
+locus 60 d = 0.0371039502068957 missing data=0
+locus 61 d = 0.22353459598972 missing data=0
+locus 62 d = 0.0364152796050116 missing data=0
+locus 63 d = 0.148764418256547 missing data=0
+locus 64 not used
+locus 65 not used
+locus 66 d = 0.0771322319548928 missing data=1
+locus 67 not used
+locus 68 d = 0.0371039478150029 missing data=0
+locus 69 not used
+locus 70 d = 0.186113645413636 missing data=0
+locus 71 d = 0.298609827075255 missing data=0
+locus 72 not used
+locus 73 d = 0.218934041039495 missing data=0
+locus 74 not used
+locus 75 d = 0.111482488440258 missing data=0
+locus 76 d = 0.439188897230493 missing data=0
+locus 77 d = 0.602189216815562 missing data=0
+locus 78 d = 0.241480826636394 missing data=2
+locus 79 d = 0.997842107885045 missing data=0
+locus 80 d = 0.525517642411928 missing data=0
+locus 81 not used
+locus 82 d = 0.328854199864032 missing data=0
+locus 83 d = 0.0371037483174305 missing data=0
+locus 84 not used
+locus 85 d = 0.312881570592937 missing data=5
+locus 86 d = 0.643778176944386 missing data=0
+locus 87 not used
+locus 88 d = 0.336059834238437 missing data=0
+locus 89 d = 0.0454546226079561 missing data=6
+locus 90 d = 0.0370826825273814 missing data=0
+locus 91 not used
+locus 92 d = 0.0371039485960264 missing data=0
+locus 93 d = 0.0371039498572624 missing data=0
+locus 94 d = 0.186113656748561 missing data=0
+locus 95 d = 0.917673411633825 missing data=0
+locus 96 d = 0.0371039498572624 missing data=0
+locus 97 d = 0.14876444464062 missing data=0
+locus 98 d = 0.298416689835561 missing data=0
+locus 99 d = 0.0371039479730192 missing data=0
+locus 100 d = 0.513976349255279 missing data=0
+locus 101 d = 0.122768479836691 missing data=3
+locus 102 not used
+locus 103 not used
+locus 104 d = 0.145745325898345 missing data=0
+locus 105 d = 0.148763049814885 missing data=0
+locus 106 d = 0.847687060552184 missing data=0
+locus 107 d = 0.0364152796050116 missing data=0
+locus 108 d = 0.477232755587515 missing data=0
+locus 109 d = 0.0371039479730192 missing data=0
+locus 110 d = 0.292173919973927 missing data=0
+locus 111 d = 0.111482328466683 missing data=0
+locus 112 d = 0.148763906063765 missing data=0
+locus 113 d = 0.0371039493910939 missing data=0
+locus 114 d = 0.892856686313931 missing data=0
+locus 115 d = 0.402315356859484 missing data=0
+locus 116 not used
+locus 117 d = 0.374034869946569 missing data=0
+locus 118 not used
+locus 119 d = 0.186113650206771 missing data=0
+locus 120 d = 0.0371039478150525 missing data=0
+locus 121 not used
+locus 122 d = 0.0385348452189779 missing data=1
+locus 123 d = 0.222840172418823 missing data=5
+locus 124 not used
+locus 125 d = 0.13052136934434 missing data=5
+locus 126 d = 0.148764450769455 missing data=0
+locus 127 d = 0.148763900616871 missing data=0
+locus 128 d = 0.525835007362647 missing data=0
+locus 129 d = 0.148764453278619 missing data=0
+locus 130 d = 0.200262134970272 missing data=3
+locus 131 not used
+locus 132 d = 0.113470465319837 missing data=1
+locus 133 d = 0.0742635970131273 missing data=0
+locus 134 d = 0.111482088289695 missing data=0
+locus 135 d = 0.0742633326268695 missing data=0
+locus 136 d = 0.14876389722706 missing data=0
+locus 137 d = 0.449863499870581 missing data=0
+locus 138 d = 0.0742636029674703 missing data=0
+locus 139 not used
+locus 140 d = 0.680765540153438 missing data=0
+locus 141 d = 0.487982516085821 missing data=0
+locus 142 d = 0.411622706655572 missing data=0
+locus 143 d = 0.213305938410417 missing data=4
+locus 144 d = 0.0742636020530886 missing data=0
+locus 145 d = 0.0371039501959599 missing data=0
+locus 146 not used
+locus 147 d = 0.0392776071472151 missing data=2
+locus 148 d = 0.37403480929738 missing data=0
+locus 149 d = 0.374034836027324 missing data=0
+locus 150 d = 0.0371039498023787 missing data=0
+locus 151 d = 0.292172153270501 missing data=0
+locus 152 d = 0.773861596172124 missing data=0
+locus 153 d = 0.18611265860626 missing data=0
+locus 154 d = 0.111415878931181 missing data=0
+locus 155 d = 0.0371039502027898 missing data=0
+locus 156 d = 0.0371039493910939 missing data=0
+locus 157 not used
+locus 158 d = 0.0742634922717682 missing data=0
+locus 159 d = 0.22353423515094 missing data=0
+locus 160 d = 0.148764425903308 missing data=0
+locus 161 d = 0.525833215303823 missing data=0
+locus 162 d = 0.29841484163445 missing data=0
+locus 163 d = 0.193343137452032 missing data=1
+locus 164 d = 0.526193249798788 missing data=0
+locus 165 d = 0.586648625647539 missing data=0
+locus 166 d = 0.487666213166904 missing data=0
+locus 167 d = 0.0371039495223392 missing data=0
+locus 168 d = 0.0371039502078378 missing data=0
+locus 169 d = 0.148763688012492 missing data=0
+locus 170 d = 0.514237764045461 missing data=0
+locus 171 not used
+locus 172 d = 0.232236185444407 missing data=1
+locus 173 d = 0.402117782016535 missing data=0
+locus 174 d = 0.186113370617894 missing data=0
+locus 175 d = 0.240156832770638 missing data=3
+locus 176 d = 0.487981044024965 missing data=0
+locus 177 d = 0.182362865835677 missing data=0
+locus 178 not used
+locus 179 d = 0.148764440319562 missing data=0
+locus 180 not used
+locus 181 not used
+locus 182 d = 0.260872271415004 missing data=0
+locus 183 d = 0.0742636010349747 missing data=0
+locus 184 d = 0.111482478527593 missing data=0
+locus 185 d = 0.07426318982074 missing data=0
+locus 186 d = 0.525875907342554 missing data=0
+locus 187 d = 0.0742635971865726 missing data=0
+locus 188 d = 0.0742636027528387 missing data=0
+locus 189 d = 0.0371038982410712 missing data=0
+locus 190 d = 0.109330119541707 missing data=0
+locus 191 d = 0.109330115034198 missing data=0
+locus 192 d = 0.52619657919657 missing data=0
+locus 193 d = 0.111482491136441 missing data=0
+locus 194 d = 0.148763904955929 missing data=0
+locus 195 d = 0.0872454887865422 missing data=4
+locus 196 d = 0.0742634964066743 missing data=0
+locus 197 d = 0.0742631907178543 missing data=0
+locus 198 d = 0.0392769816377994 missing data=2
+locus 199 d = 0.0371039458142619 missing data=0
+locus 200 d = 0.0742636015753522 missing data=0
+ 
+*******************************
+population :NZo
+n=25
+nloci=200 of which 20 useless (loci excluded :13  17  24  28  30  42  49  52  65  67  88  111  122  138  152  169  188  190  194  200   )
+
+g2= -0.00196670386044251 ; sd= 0.00427016982325316 ; expected bias = 7.29374013583656E-7
+s(g2)=0 ; sd= 0 ; expected bias = 0
+p-value (H0: g2=s=0) = 0.629 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -1910.07724173999
+s= 0
+CI95(s) = [ 0 , 0.048828125 ]
+locus 1 d = 0.08 missing data=0
+locus 2 d = 0.0434782608695652 missing data=2
+locus 3 d = 0.04 missing data=0
+locus 4 d = 0.68 missing data=0
+locus 5 d = 0.04 missing data=0
+locus 6 d = 0.12 missing data=0
+locus 7 d = 0.08 missing data=0
+locus 8 d = 0.4 missing data=0
+locus 9 d = 0.12 missing data=0
+locus 10 d = 0.48 missing data=0
+locus 11 d = 0.8 missing data=0
+locus 12 d = 0.08 missing data=0
+locus 13 not used
+locus 14 d = 0.08 missing data=0
+locus 15 d = 0.0833333333333333 missing data=1
+locus 16 d = 0.16 missing data=0
+locus 17 not used
+locus 18 d = 0.12 missing data=0
+locus 19 d = 0.08 missing data=0
+locus 20 d = 0.0416666666666667 missing data=1
+locus 21 d = 0.08 missing data=0
+locus 22 d = 0.0833333333333333 missing data=1
+locus 23 d = 0.12 missing data=0
+locus 24 not used
+locus 25 d = 0.08 missing data=0
+locus 26 d = 0.4 missing data=0
+locus 27 d = 0.04 missing data=0
+locus 28 not used
+locus 29 d = 0.04 missing data=0
+locus 30 not used
+locus 31 d = 0.56 missing data=0
+locus 32 d = 0.12 missing data=0
+locus 33 d = 0.36 missing data=0
+locus 34 d = 0.166666666666667 missing data=1
+locus 35 d = 0.08 missing data=0
+locus 36 d = 0.4 missing data=0
+locus 37 d = 0.36 missing data=0
+locus 38 d = 0.32 missing data=0
+locus 39 d = 0.44 missing data=0
+locus 40 d = 0.04 missing data=0
+locus 41 d = 0.04 missing data=0
+locus 42 not used
+locus 43 d = 0.12 missing data=0
+locus 44 d = 0.08 missing data=0
+locus 45 d = 0.08 missing data=0
+locus 46 d = 0.04 missing data=0
+locus 47 d = 0.28 missing data=0
+locus 48 d = 0.12 missing data=0
+locus 49 not used
+locus 50 d = 0.24 missing data=0
+locus 51 d = 0.0833333333333333 missing data=1
+locus 52 not used
+locus 53 d = 0.08 missing data=0
+locus 54 d = 0.08 missing data=0
+locus 55 d = 0.08 missing data=0
+locus 56 d = 0.0909090909090909 missing data=3
+locus 57 d = 0.36 missing data=0
+locus 58 d = 0.6 missing data=0
+locus 59 d = 0.12 missing data=0
+locus 60 d = 0.28 missing data=0
+locus 61 d = 0.56 missing data=0
+locus 62 d = 0.04 missing data=0
+locus 63 d = 0.04 missing data=0
+locus 64 d = 0.12 missing data=0
+locus 65 not used
+locus 66 d = 0.16 missing data=0
+locus 67 not used
+locus 68 d = 0.24 missing data=0
+locus 69 d = 0.04 missing data=0
+locus 70 d = 0.44 missing data=0
+locus 71 d = 0.6 missing data=0
+locus 72 d = 0.16 missing data=0
+locus 73 d = 0.2 missing data=0
+locus 74 d = 0.12 missing data=0
+locus 75 d = 0.4 missing data=0
+locus 76 d = 0.416666666666667 missing data=1
+locus 77 d = 0.32 missing data=0
+locus 78 d = 0.28 missing data=0
+locus 79 d = 0.12 missing data=0
+locus 80 d = 0.48 missing data=0
+locus 81 d = 0.12 missing data=0
+locus 82 d = 0.28 missing data=0
+locus 83 d = 0.12 missing data=0
+locus 84 d = 0.36 missing data=0
+locus 85 d = 0.08 missing data=0
+locus 86 d = 0.24 missing data=0
+locus 87 d = 0.64 missing data=0
+locus 88 not used
+locus 89 d = 0.4 missing data=0
+locus 90 d = 0.32 missing data=0
+locus 91 d = 0.44 missing data=0
+locus 92 d = 0.28 missing data=0
+locus 93 d = 0.125 missing data=1
+locus 94 d = 0.08 missing data=0
+locus 95 d = 0.130434782608696 missing data=2
+locus 96 d = 0.04 missing data=0
+locus 97 d = 0.12 missing data=0
+locus 98 d = 0.72 missing data=0
+locus 99 d = 0.04 missing data=0
+locus 100 d = 0.291666666666667 missing data=1
+locus 101 d = 0.3 missing data=5
+locus 102 d = 0.75 missing data=1
+locus 103 d = 0.0869565217391304 missing data=2
+locus 104 d = 0.0476190476190476 missing data=4
+locus 105 d = 0.04 missing data=0
+locus 106 d = 0.64 missing data=0
+locus 107 d = 0.12 missing data=0
+locus 108 d = 0.0833333333333333 missing data=1
+locus 109 d = 0.16 missing data=0
+locus 110 d = 0.08 missing data=0
+locus 111 not used
+locus 112 d = 0.217391304347826 missing data=2
+locus 113 d = 0.04 missing data=0
+locus 114 d = 0.04 missing data=0
+locus 115 d = 0.24 missing data=0
+locus 116 d = 0.04 missing data=0
+locus 117 d = 0.375 missing data=1
+locus 118 d = 0.16 missing data=0
+locus 119 d = 0.08 missing data=0
+locus 120 d = 0.44 missing data=0
+locus 121 d = 0.28 missing data=0
+locus 122 not used
+locus 123 d = 0.04 missing data=0
+locus 124 d = 0.24 missing data=0
+locus 125 d = 0.52 missing data=0
+locus 126 d = 0.0434782608695652 missing data=2
+locus 127 d = 0.24 missing data=0
+locus 128 d = 0.08 missing data=0
+locus 129 d = 0.08 missing data=0
+locus 130 d = 0.56 missing data=0
+locus 131 d = 0.24 missing data=0
+locus 132 d = 0.52 missing data=0
+locus 133 d = 0.6 missing data=0
+locus 134 d = 0.08 missing data=0
+locus 135 d = 0.52 missing data=0
+locus 136 d = 0.08 missing data=0
+locus 137 d = 0.04 missing data=0
+locus 138 not used
+locus 139 d = 0.04 missing data=0
+locus 140 d = 0.0434782608695652 missing data=2
+locus 141 d = 0.347826086956522 missing data=2
+locus 142 d = 0.64 missing data=0
+locus 143 d = 0.48 missing data=0
+locus 144 d = 0.36 missing data=0
+locus 145 d = 0.08 missing data=0
+locus 146 d = 0.16 missing data=0
+locus 147 d = 0.2 missing data=0
+locus 148 d = 0.0416666666666667 missing data=1
+locus 149 d = 0.6 missing data=0
+locus 150 d = 0.12 missing data=0
+locus 151 d = 0.12 missing data=0
+locus 152 not used
+locus 153 d = 0.56 missing data=0
+locus 154 d = 0.12 missing data=0
+locus 155 d = 0.48 missing data=0
+locus 156 d = 0.04 missing data=0
+locus 157 d = 0.2 missing data=0
+locus 158 d = 0.08 missing data=0
+locus 159 d = 0.2 missing data=0
+locus 160 d = 0.32 missing data=0
+locus 161 d = 0.72 missing data=0
+locus 162 d = 0.48 missing data=0
+locus 163 d = 0.04 missing data=0
+locus 164 d = 0.12 missing data=0
+locus 165 d = 0.12 missing data=0
+locus 166 d = 0.12 missing data=0
+locus 167 d = 0.04 missing data=0
+locus 168 d = 0.6 missing data=0
+locus 169 not used
+locus 170 d = 0.44 missing data=0
+locus 171 d = 0.2 missing data=0
+locus 172 d = 0.08 missing data=0
+locus 173 d = 0.12 missing data=0
+locus 174 d = 0.12 missing data=0
+locus 175 d = 0.12 missing data=0
+locus 176 d = 0.56 missing data=0
+locus 177 d = 0.04 missing data=0
+locus 178 d = 0.24 missing data=0
+locus 179 d = 0.44 missing data=0
+locus 180 d = 0.08 missing data=0
+locus 181 d = 0.12 missing data=0
+locus 182 d = 0.08 missing data=0
+locus 183 d = 0.04 missing data=0
+locus 184 d = 0.08 missing data=0
+locus 185 d = 0.28 missing data=0
+locus 186 d = 0.48 missing data=0
+locus 187 d = 0.24 missing data=0
+locus 188 not used
+locus 189 d = 0.92 missing data=0
+locus 190 not used
+locus 191 d = 0.04 missing data=0
+locus 192 d = 0.16 missing data=0
+locus 193 d = 0.08 missing data=0
+locus 194 not used
+locus 195 d = 0.28 missing data=0
+locus 196 d = 0.125 missing data=1
+locus 197 d = 0.24 missing data=0
+locus 198 d = 0.04 missing data=0
+locus 199 d = 0.08 missing data=0
+locus 200 not used
+ 
+*******************************
+population :SAm-Bariloche
+n=19
+nloci=200 of which 20 useless (loci excluded :3  8  9  14  23  25  27  51  54  79  83  86  105  130  143  146  179  191  195  199   )
+
+g2= -0.0033625990151745 ; sd= 0.00395572057710532 ; expected bias = 8.23564489162592E-7
+s(g2)=0 ; sd= 0 ; expected bias = 0
+p-value (H0: g2=s=0) = 0.77 based on 1000 iterations
+ 
+unconstrained maximum likelihood
+lnl= -1474.42081039667
+s= 0
+CI95(s) = [ 0 , 0.048828125 ]
+locus 1 d = 0.157894736842105 missing data=0
+locus 2 d = 0.631578947368421 missing data=0
+locus 3 not used
+locus 4 d = 0.0526315789473684 missing data=0
+locus 5 d = 0.157894736842105 missing data=0
+locus 6 d = 0.0526315789473684 missing data=0
+locus 7 d = 0.578947368421053 missing data=0
+locus 8 not used
+locus 9 not used
+locus 10 d = 0.105263157894737 missing data=0
+locus 11 d = 0.105263157894737 missing data=0
+locus 12 d = 0.368421052631579 missing data=0
+locus 13 d = 0.5625 missing data=3
+locus 14 not used
+locus 15 d = 0.157894736842105 missing data=0
+locus 16 d = 0.210526315789474 missing data=0
+locus 17 d = 0.105263157894737 missing data=0
+locus 18 d = 0.105263157894737 missing data=0
+locus 19 d = 0.473684210526316 missing data=0
+locus 20 d = 0.631578947368421 missing data=0
+locus 21 d = 0.684210526315789 missing data=0
+locus 22 d = 0.0526315789473684 missing data=0
+locus 23 not used
+locus 24 d = 0.0526315789473684 missing data=0
+locus 25 not used
+locus 26 d = 0.0526315789473684 missing data=0
+locus 27 not used
+locus 28 d = 0.0555555555555556 missing data=1
+locus 29 d = 0.210526315789474 missing data=0
+locus 30 d = 0.0526315789473684 missing data=0
+locus 31 d = 0.0555555555555556 missing data=1
+locus 32 d = 0.0526315789473684 missing data=0
+locus 33 d = 0.368421052631579 missing data=0
+locus 34 d = 0.736842105263158 missing data=0
+locus 35 d = 0.210526315789474 missing data=0
+locus 36 d = 0.473684210526316 missing data=0
+locus 37 d = 0.263157894736842 missing data=0
+locus 38 d = 0.0526315789473684 missing data=0
+locus 39 d = 0.105263157894737 missing data=0
+locus 40 d = 0.0526315789473684 missing data=0
+locus 41 d = 0.105263157894737 missing data=0
+locus 42 d = 0.105263157894737 missing data=0
+locus 43 d = 0.105263157894737 missing data=0
+locus 44 d = 0.0526315789473684 missing data=0
+locus 45 d = 0.0526315789473684 missing data=0
+locus 46 d = 0.0526315789473684 missing data=0
+locus 47 d = 0.210526315789474 missing data=0
+locus 48 d = 0.315789473684211 missing data=0
+locus 49 d = 0.368421052631579 missing data=0
+locus 50 d = 0.0555555555555556 missing data=1
+locus 51 not used
+locus 52 d = 0.0526315789473684 missing data=0
+locus 53 d = 0.157894736842105 missing data=0
+locus 54 not used
+locus 55 d = 0.263157894736842 missing data=0
+locus 56 d = 0.210526315789474 missing data=0
+locus 57 d = 0.157894736842105 missing data=0
+locus 58 d = 0.473684210526316 missing data=0
+locus 59 d = 0.0526315789473684 missing data=0
+locus 60 d = 0.0526315789473684 missing data=0
+locus 61 d = 0.105263157894737 missing data=0
+locus 62 d = 0.157894736842105 missing data=0
+locus 63 d = 0.578947368421053 missing data=0
+locus 64 d = 0.789473684210526 missing data=0
+locus 65 d = 0.105263157894737 missing data=0
+locus 66 d = 0.0526315789473684 missing data=0
+locus 67 d = 0.0526315789473684 missing data=0
+locus 68 d = 0.0526315789473684 missing data=0
+locus 69 d = 0.421052631578947 missing data=0
+locus 70 d = 0.0526315789473684 missing data=0
+locus 71 d = 0.0526315789473684 missing data=0
+locus 72 d = 0.0526315789473684 missing data=0
+locus 73 d = 0.0526315789473684 missing data=0
+locus 74 d = 0.0526315789473684 missing data=0
+locus 75 d = 0.157894736842105 missing data=0
+locus 76 d = 0.526315789473684 missing data=0
+locus 77 d = 0.473684210526316 missing data=0
+locus 78 d = 0.473684210526316 missing data=0
+locus 79 not used
+locus 80 d = 0.473684210526316 missing data=0
+locus 81 d = 0.263157894736842 missing data=0
+locus 82 d = 0.157894736842105 missing data=0
+locus 83 not used
+locus 84 d = 0.0526315789473684 missing data=0
+locus 85 d = 0.0526315789473684 missing data=0
+locus 86 not used
+locus 87 d = 0.736842105263158 missing data=0
+locus 88 d = 0.210526315789474 missing data=0
+locus 89 d = 0.0526315789473684 missing data=0
+locus 90 d = 0.473684210526316 missing data=0
+locus 91 d = 0.526315789473684 missing data=0
+locus 92 d = 0.0526315789473684 missing data=0
+locus 93 d = 0.105263157894737 missing data=0
+locus 94 d = 0.210526315789474 missing data=0
+locus 95 d = 0.157894736842105 missing data=0
+locus 96 d = 0.578947368421053 missing data=0
+locus 97 d = 0.473684210526316 missing data=0
+locus 98 d = 0.473684210526316 missing data=0
+locus 99 d = 0.210526315789474 missing data=0
+locus 100 d = 0.473684210526316 missing data=0
+locus 101 d = 0.473684210526316 missing data=0
+locus 102 d = 0.0526315789473684 missing data=0
+locus 103 d = 0.105263157894737 missing data=0
+locus 104 d = 0.105263157894737 missing data=0
+locus 105 not used
+locus 106 d = 0.473684210526316 missing data=0
+locus 107 d = 0.473684210526316 missing data=0
+locus 108 d = 0.421052631578947 missing data=0
+locus 109 d = 0.315789473684211 missing data=0
+locus 110 d = 0.315789473684211 missing data=0
+locus 111 d = 0.722222222222222 missing data=1
+locus 112 d = 0.0526315789473684 missing data=0
+locus 113 d = 0.631578947368421 missing data=0
+locus 114 d = 0.578947368421053 missing data=0
+locus 115 d = 0.0526315789473684 missing data=0
+locus 116 d = 0.444444444444444 missing data=1
+locus 117 d = 0.263157894736842 missing data=0
+locus 118 d = 0.1875 missing data=3
+locus 119 d = 0.105263157894737 missing data=0
+locus 120 d = 0.105263157894737 missing data=0
+locus 121 d = 0.0526315789473684 missing data=0
+locus 122 d = 0.315789473684211 missing data=0
+locus 123 d = 0.0526315789473684 missing data=0
+locus 124 d = 0.125 missing data=3
+locus 125 d = 0.0526315789473684 missing data=0
+locus 126 d = 0.105263157894737 missing data=0
+locus 127 d = 0.263157894736842 missing data=0
+locus 128 d = 0.0526315789473684 missing data=0
+locus 129 d = 0.105263157894737 missing data=0
+locus 130 not used
+locus 131 d = 0.210526315789474 missing data=0
+locus 132 d = 0.0526315789473684 missing data=0
+locus 133 d = 0.0526315789473684 missing data=0
+locus 134 d = 0.0588235294117647 missing data=2
+locus 135 d = 0.210526315789474 missing data=0
+locus 136 d = 0.684210526315789 missing data=0
+locus 137 d = 0.105263157894737 missing data=0
+locus 138 d = 0.0526315789473684 missing data=0
+locus 139 d = 0.0526315789473684 missing data=0
+locus 140 d = 0.526315789473684 missing data=0
+locus 141 d = 0.947368421052632 missing data=0
+locus 142 d = 0.105263157894737 missing data=0
+locus 143 not used
+locus 144 d = 0.684210526315789 missing data=0
+locus 145 d = 0.263157894736842 missing data=0
+locus 146 not used
+locus 147 d = 0.157894736842105 missing data=0
+locus 148 d = 0.0555555555555556 missing data=1
+locus 149 d = 0.105263157894737 missing data=0
+locus 150 d = 0.333333333333333 missing data=1
+locus 151 d = 0.0526315789473684 missing data=0
+locus 152 d = 0.315789473684211 missing data=0
+locus 153 d = 0.0526315789473684 missing data=0
+locus 154 d = 0.235294117647059 missing data=2
+locus 155 d = 0.368421052631579 missing data=0
+locus 156 d = 0.0526315789473684 missing data=0
+locus 157 d = 0.263157894736842 missing data=0
+locus 158 d = 0.578947368421053 missing data=0
+locus 159 d = 0.473684210526316 missing data=0
+locus 160 d = 0.736842105263158 missing data=0
+locus 161 d = 0.736842105263158 missing data=0
+locus 162 d = 0.0526315789473684 missing data=0
+locus 163 d = 0.736842105263158 missing data=0
+locus 164 d = 0.789473684210526 missing data=0
+locus 165 d = 0.368421052631579 missing data=0
+locus 166 d = 0.105263157894737 missing data=0
+locus 167 d = 0.0526315789473684 missing data=0
+locus 168 d = 0.421052631578947 missing data=0
+locus 169 d = 0.105263157894737 missing data=0
+locus 170 d = 0.368421052631579 missing data=0
+locus 171 d = 0.0526315789473684 missing data=0
+locus 172 d = 0.0526315789473684 missing data=0
+locus 173 d = 0.631578947368421 missing data=0
+locus 174 d = 0.105263157894737 missing data=0
+locus 175 d = 0.210526315789474 missing data=0
+locus 176 d = 0.315789473684211 missing data=0
+locus 177 d = 0.263157894736842 missing data=0
+locus 178 d = 0.111111111111111 missing data=1
+locus 179 not used
+locus 180 d = 0.0526315789473684 missing data=0
+locus 181 d = 0.105263157894737 missing data=0
+locus 182 d = 0.368421052631579 missing data=0
+locus 183 d = 0.947368421052632 missing data=0
+locus 184 d = 0.947368421052632 missing data=0
+locus 185 d = 0.0526315789473684 missing data=0
+locus 186 d = 0.157894736842105 missing data=0
+locus 187 d = 0.368421052631579 missing data=0
+locus 188 d = 0.157894736842105 missing data=0
+locus 189 d = 0.0526315789473684 missing data=0
+locus 190 d = 0.0526315789473684 missing data=0
+locus 191 not used
+locus 192 d = 0.157894736842105 missing data=0
+locus 193 d = 0.105263157894737 missing data=0
+locus 194 d = 0.368421052631579 missing data=0
+locus 195 not used
+locus 196 d = 0.157894736842105 missing data=0
+locus 197 d = 0.315789473684211 missing data=0
+locus 198 d = 0.263157894736842 missing data=0
+locus 199 not used
+locus 200 d = 0.368421052631579 missing data=0
